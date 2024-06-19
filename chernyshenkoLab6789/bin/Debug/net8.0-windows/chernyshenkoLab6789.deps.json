@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "chernyshenkoLab6789/1.0.0": {
+        "runtime": {
+          "chernyshenkoLab6789.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chernyshenkoLab6789/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
